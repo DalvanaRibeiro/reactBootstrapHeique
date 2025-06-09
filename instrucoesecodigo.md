@@ -13,7 +13,7 @@ npm install
 ## Instalando o bootstrap:
 npm install bootstrap
 
-## No main.css adicione:
+## No main.tsx adicione:
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
